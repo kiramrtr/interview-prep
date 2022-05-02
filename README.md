@@ -1,15 +1,20 @@
-## Java interview
+# Interview Prep
 
-I created study notes for my recent interviews. I am sharing them here so that others can benefit from it. 
-The notes are specifically for theory based Java interviews, typically done in service based companies 
-(as opposed to coding based interviews done in product companies).  
+## Credits:
 
-### How to use it?
+> Deepak Vadgama
 
-These are study notes, mostly for revision couple of days before the interview. Check resources on each topic 
-for more in-depth preparation.
+These are the notes I've prepared (some are collated) for my up-skilling and to refer for interviews. These include various languages and topics that I'm studying.
 
-## Table Of Contents 
+## How to use it?
+
+These are study notes, mostly for revision couple of days before the interview. Check resources on each topic for more in-depth preparation.
+
+## Table Of Contents
+
+### Problem Solving
+
+- [Common Coding Problems](topics/problem-solving/common-coding-problems.md)
 
 ### Core Java
 
@@ -30,11 +35,11 @@ for more in-depth preparation.
 
 ### Related topics
 
-- [SQL](topics/related/sql.md) 
+- [SQL](topics/related/sql.md)
 - [UNIX](topics/related/unix.md)
 - [Web](topics/related/web.md)
 
-### Other topics 
+### Other topics
 
 - [Spring Boot overview (DI, Security, JPA, Testing)](http://deepakvadgama.com/blog/spring-boot-wonders/)
 
