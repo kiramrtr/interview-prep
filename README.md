@@ -50,3 +50,9 @@ Answers to such questions vary based on multiple factors (interviewer and interv
 - What do you like about Java? [Answer](topics/opinion/myanswers.md#what-do-you-like-about-java)
 - What do you not like about Java? [Answer](topics/opinion/myanswers.md#what-do-you-not-like-about-java)
 - Which is better - compilation, interpretation or JIT? Why? [Answer](topics/opinion/myanswers.md#importance-of-compile-time-vs-jit)
+
+### Practice & Interactive Learning
+
+#### SQL
+
+[SQLBolt](https://sqlbolt.com/)
