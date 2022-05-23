@@ -32,7 +32,7 @@ public boolean containsDuplicate(int[] nums) {
 }
 ```
 
-# Using Set:
+#### Using Set:
 
 ```java
 public boolean containsDuplicate(int[] nums) {
