@@ -1,0 +1,32 @@
+@startuml Collections Hierarchy
+
+!theme mars
+
+interface Collection
+Collection : add(E e)
+Collection : addAll()
+Collection : removeIf(Predicate filter)
+
+interface List
+interface Set
+interface SortedSet
+interface NavigableSet
+interface Queue
+
+Collection <|-- List
+List <|-- ArrayList
+List <|-- LinkedList
+List <|-- Vector
+
+Collection <|-- Queue
+Queue <|-- PriorityQueue
+Queue <|-- LinkedList
+
+Collection <|-- Set
+Set <|-- SortedSet
+Set <|-- HashSet
+HashSet <|-- LinkedHashSet
+SortedSet <|-- NavigableSet
+NavigableSet <|-- TreeSet
+
+@enduml

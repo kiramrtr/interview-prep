@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="547px" preserveAspectRatio="none" style="width:790px;height:547px;background:#F9F9F9;" version="1.1" viewBox="0 0 790 547" width="790px" zoomAndPan="magnify"><defs/><g><!--MD5=[c160724f8e3bb89ca8141a12554ac2e3]
+class Collection--><g id="elem_Collection"><rect codeLine="4" fill="#F1F1F1" height="100.8281" id="Collection" rx="3.5" ry="3.5" style="stroke:#181818;stroke-width:0.5;" width="167" x="258.5" y="7"/><ellipse cx="306.75" cy="23" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M307.7031,19.6406 L307.7031,26.2969 L309.4219,26.2969 Q310.0313,26.2969 310.2969,26.5313 Q310.5625,26.7656 310.5625,27.1563 Q310.5625,27.5313 310.2969,27.7656 Q310.0313,28 309.4219,28 L304.2813,28 Q303.6719,28 303.4063,27.7656 Q303.1406,27.5313 303.1406,27.1406 Q303.1406,26.7656 303.4063,26.5313 Q303.6719,26.2969 304.2813,26.2969 L306,26.2969 L306,19.6406 L304.2813,19.6406 Q303.6719,19.6406 303.4063,19.4063 Q303.1406,19.1719 303.1406,18.7813 Q303.1406,18.4063 303.4063,18.1719 Q303.6719,17.9375 304.2813,17.9375 L309.4219,17.9375 Q310.0313,17.9375 310.2969,18.1719 Q310.5625,18.4063 310.5625,18.7813 Q310.5625,19.1719 310.2969,19.4063 Q310.0313,19.6406 309.4219,19.6406 L307.7031,19.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="62" x="327.25" y="28.7285">Collection</text><line style="stroke:#181818;stroke-width:0.5;" x1="259.5" x2="424.5" y1="39" y2="39"/><line style="stroke:#181818;stroke-width:0.5;" x1="259.5" x2="424.5" y1="47" y2="47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="264.5" y="65.5332">add(E e)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="264.5" y="83.1426">addAll()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155" x="264.5" y="100.752">removeIf(Predicate filter)</text></g><!--MD5=[3d4177ac58b4411586d067f34e84928f]
+class List--><g id="elem_List"><rect codeLine="9" fill="#F1F1F1" height="48" id="List" rx="3.5" ry="3.5" style="stroke:#181818;stroke-width:0.5;" width="54" x="205" y="168"/><ellipse cx="220" cy="184" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M220.9531,180.6406 L220.9531,187.2969 L222.6719,187.2969 Q223.2813,187.2969 223.5469,187.5313 Q223.8125,187.7656 223.8125,188.1563 Q223.8125,188.5313 223.5469,188.7656 Q223.2813,189 222.6719,189 L217.5313,189 Q216.9219,189 216.6563,188.7656 Q216.3906,188.5313 216.3906,188.1406 Q216.3906,187.7656 216.6563,187.5313 Q216.9219,187.2969 217.5313,187.2969 L219.25,187.2969 L219.25,180.6406 L217.5313,180.6406 Q216.9219,180.6406 216.6563,180.4063 Q216.3906,180.1719 216.3906,179.7813 Q216.3906,179.4063 216.6563,179.1719 Q216.9219,178.9375 217.5313,178.9375 L222.6719,178.9375 Q223.2813,178.9375 223.5469,179.1719 Q223.8125,179.4063 223.8125,179.7813 Q223.8125,180.1719 223.5469,180.4063 Q223.2813,180.6406 222.6719,180.6406 L220.9531,180.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="22" x="234" y="189.7285">List</text><line style="stroke:#181818;stroke-width:0.5;" x1="206" x2="258" y1="200" y2="200"/><line style="stroke:#181818;stroke-width:0.5;" x1="206" x2="258" y1="208" y2="208"/></g><!--MD5=[73145e46247802284b2f7aaef1fa1797]
+class Set--><g id="elem_Set"><rect codeLine="10" fill="#F1F1F1" height="48" id="Set" rx="3.5" ry="3.5" style="stroke:#181818;stroke-width:0.5;" width="53" x="545.5" y="168"/><ellipse cx="560.5" cy="184" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M561.4531,180.6406 L561.4531,187.2969 L563.1719,187.2969 Q563.7813,187.2969 564.0469,187.5313 Q564.3125,187.7656 564.3125,188.1563 Q564.3125,188.5313 564.0469,188.7656 Q563.7813,189 563.1719,189 L558.0313,189 Q557.4219,189 557.1563,188.7656 Q556.8906,188.5313 556.8906,188.1406 Q556.8906,187.7656 557.1563,187.5313 Q557.4219,187.2969 558.0313,187.2969 L559.75,187.2969 L559.75,180.6406 L558.0313,180.6406 Q557.4219,180.6406 557.1563,180.4063 Q556.8906,180.1719 556.8906,179.7813 Q556.8906,179.4063 557.1563,179.1719 Q557.4219,178.9375 558.0313,178.9375 L563.1719,178.9375 Q563.7813,178.9375 564.0469,179.1719 Q564.3125,179.4063 564.3125,179.7813 Q564.3125,180.1719 564.0469,180.4063 Q563.7813,180.6406 563.1719,180.6406 L561.4531,180.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="21" x="574.5" y="189.7285">Set</text><line style="stroke:#181818;stroke-width:0.5;" x1="546.5" x2="597.5" y1="200" y2="200"/><line style="stroke:#181818;stroke-width:0.5;" x1="546.5" x2="597.5" y1="208" y2="208"/></g><!--MD5=[c671e22bb1cd81cc807e7f83f36310d2]
+class SortedSet--><g id="elem_SortedSet"><rect codeLine="11" fill="#F1F1F1" height="48" id="SortedSet" rx="3.5" ry="3.5" style="stroke:#181818;stroke-width:0.5;" width="95" x="524.5" y="276"/><ellipse cx="539.5" cy="292" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M540.4531,288.6406 L540.4531,295.2969 L542.1719,295.2969 Q542.7813,295.2969 543.0469,295.5313 Q543.3125,295.7656 543.3125,296.1563 Q543.3125,296.5313 543.0469,296.7656 Q542.7813,297 542.1719,297 L537.0313,297 Q536.4219,297 536.1563,296.7656 Q535.8906,296.5313 535.8906,296.1406 Q535.8906,295.7656 536.1563,295.5313 Q536.4219,295.2969 537.0313,295.2969 L538.75,295.2969 L538.75,288.6406 L537.0313,288.6406 Q536.4219,288.6406 536.1563,288.4063 Q535.8906,288.1719 535.8906,287.7813 Q535.8906,287.4063 536.1563,287.1719 Q536.4219,286.9375 537.0313,286.9375 L542.1719,286.9375 Q542.7813,286.9375 543.0469,287.1719 Q543.3125,287.4063 543.3125,287.7813 Q543.3125,288.1719 543.0469,288.4063 Q542.7813,288.6406 542.1719,288.6406 L540.4531,288.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="63" x="553.5" y="297.7285">SortedSet</text><line style="stroke:#181818;stroke-width:0.5;" x1="525.5" x2="618.5" y1="308" y2="308"/><line style="stroke:#181818;stroke-width:0.5;" x1="525.5" x2="618.5" y1="316" y2="316"/></g><!--MD5=[9a382033cbbfde0ee4ba2c7fe290f50d]
+class NavigableSet--><g id="elem_NavigableSet"><rect codeLine="12" fill="#F1F1F1" height="48" id="NavigableSet" rx="3.5" ry="3.5" style="stroke:#181818;stroke-width:0.5;" width="115" x="506.5" y="384"/><ellipse cx="521.5" cy="400" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M522.4531,396.6406 L522.4531,403.2969 L524.1719,403.2969 Q524.7813,403.2969 525.0469,403.5313 Q525.3125,403.7656 525.3125,404.1563 Q525.3125,404.5313 525.0469,404.7656 Q524.7813,405 524.1719,405 L519.0313,405 Q518.4219,405 518.1563,404.7656 Q517.8906,404.5313 517.8906,404.1406 Q517.8906,403.7656 518.1563,403.5313 Q518.4219,403.2969 519.0313,403.2969 L520.75,403.2969 L520.75,396.6406 L519.0313,396.6406 Q518.4219,396.6406 518.1563,396.4063 Q517.8906,396.1719 517.8906,395.7813 Q517.8906,395.4063 518.1563,395.1719 Q518.4219,394.9375 519.0313,394.9375 L524.1719,394.9375 Q524.7813,394.9375 525.0469,395.1719 Q525.3125,395.4063 525.3125,395.7813 Q525.3125,396.1719 525.0469,396.4063 Q524.7813,396.6406 524.1719,396.6406 L522.4531,396.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="83" x="535.5" y="405.7285">NavigableSet</text><line style="stroke:#181818;stroke-width:0.5;" x1="507.5" x2="620.5" y1="416" y2="416"/><line style="stroke:#181818;stroke-width:0.5;" x1="507.5" x2="620.5" y1="424" y2="424"/></g><!--MD5=[15b0de36700cf8bf422172734e699e19]
+class Queue--><g id="elem_Queue"><rect codeLine="13" fill="#F1F1F1" height="48" id="Queue" rx="3.5" ry="3.5" style="stroke:#181818;stroke-width:0.5;" width="75" x="304.5" y="168"/><ellipse cx="319.5" cy="184" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M320.4531,180.6406 L320.4531,187.2969 L322.1719,187.2969 Q322.7813,187.2969 323.0469,187.5313 Q323.3125,187.7656 323.3125,188.1563 Q323.3125,188.5313 323.0469,188.7656 Q322.7813,189 322.1719,189 L317.0313,189 Q316.4219,189 316.1563,188.7656 Q315.8906,188.5313 315.8906,188.1406 Q315.8906,187.7656 316.1563,187.5313 Q316.4219,187.2969 317.0313,187.2969 L318.75,187.2969 L318.75,180.6406 L317.0313,180.6406 Q316.4219,180.6406 316.1563,180.4063 Q315.8906,180.1719 315.8906,179.7813 Q315.8906,179.4063 316.1563,179.1719 Q316.4219,178.9375 317.0313,178.9375 L322.1719,178.9375 Q322.7813,178.9375 323.0469,179.1719 Q323.3125,179.4063 323.3125,179.7813 Q323.3125,180.1719 323.0469,180.4063 Q322.7813,180.6406 322.1719,180.6406 L320.4531,180.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="43" x="333.5" y="189.7285">Queue</text><line style="stroke:#181818;stroke-width:0.5;" x1="305.5" x2="378.5" y1="200" y2="200"/><line style="stroke:#181818;stroke-width:0.5;" x1="305.5" x2="378.5" y1="208" y2="208"/></g><!--MD5=[ab8871ed637f40707b866ba6597734bc]
+class ArrayList--><g id="elem_ArrayList"><rect fill="#F1F1F1" height="48" id="ArrayList" rx="3.5" ry="3.5" style="stroke:#181818;stroke-width:0.5;" width="88" x="7" y="276"/><ellipse cx="22" cy="292" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M24.7656,287.875 Q24.9219,287.6563 25.1094,287.5469 Q25.2969,287.4375 25.5156,287.4375 Q25.8906,287.4375 26.125,287.7031 Q26.3594,287.9531 26.3594,288.5625 L26.3594,290.0156 Q26.3594,290.625 26.125,290.8906 Q25.8906,291.1563 25.5156,291.1563 Q25.1719,291.1563 24.9688,290.9531 Q24.7656,290.7656 24.6563,290.25 Q24.6094,289.8906 24.4219,289.7031 Q24.0938,289.3281 23.4844,289.1094 Q22.875,288.8906 22.25,288.8906 Q21.4844,288.8906 20.8438,289.2188 Q20.2188,289.5469 19.7188,290.2969 Q19.2344,291.0469 19.2344,292.0781 L19.2344,293.1719 Q19.2344,294.4063 20.125,295.2344 Q21.0156,296.0469 22.6094,296.0469 Q23.5469,296.0469 24.2031,295.7969 Q24.5938,295.6406 25.0156,295.2031 Q25.2813,294.9375 25.4219,294.8594 Q25.5781,294.7813 25.7813,294.7813 Q26.1094,294.7813 26.3594,295.0469 Q26.625,295.2969 26.625,295.6406 Q26.625,295.9844 26.2813,296.3906 Q25.7813,296.9688 24.9844,297.2969 Q23.9063,297.75 22.6094,297.75 Q21.0938,297.75 19.8906,297.125 Q18.9063,296.625 18.2188,295.5625 Q17.5313,294.4844 17.5313,293.2031 L17.5313,292.0469 Q17.5313,290.7188 18.1406,289.5781 Q18.7656,288.4219 19.8594,287.8125 Q20.9531,287.1875 22.1875,287.1875 Q22.9219,287.1875 23.5625,287.3594 Q24.2188,287.5156 24.7656,287.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="36" y="297.7285">ArrayList</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="94" y1="308" y2="308"/><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="94" y1="316" y2="316"/></g><!--MD5=[a046d640d88ed63f622f54ae7bf961fb]
+class LinkedList--><g id="elem_LinkedList"><rect fill="#F1F1F1" height="48" id="LinkedList" rx="3.5" ry="3.5" style="stroke:#181818;stroke-width:0.5;" width="96" x="239" y="276"/><ellipse cx="254" cy="292" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M256.7656,287.875 Q256.9219,287.6563 257.1094,287.5469 Q257.2969,287.4375 257.5156,287.4375 Q257.8906,287.4375 258.125,287.7031 Q258.3594,287.9531 258.3594,288.5625 L258.3594,290.0156 Q258.3594,290.625 258.125,290.8906 Q257.8906,291.1563 257.5156,291.1563 Q257.1719,291.1563 256.9688,290.9531 Q256.7656,290.7656 256.6563,290.25 Q256.6094,289.8906 256.4219,289.7031 Q256.0938,289.3281 255.4844,289.1094 Q254.875,288.8906 254.25,288.8906 Q253.4844,288.8906 252.8438,289.2188 Q252.2188,289.5469 251.7188,290.2969 Q251.2344,291.0469 251.2344,292.0781 L251.2344,293.1719 Q251.2344,294.4063 252.125,295.2344 Q253.0156,296.0469 254.6094,296.0469 Q255.5469,296.0469 256.2031,295.7969 Q256.5938,295.6406 257.0156,295.2031 Q257.2813,294.9375 257.4219,294.8594 Q257.5781,294.7813 257.7813,294.7813 Q258.1094,294.7813 258.3594,295.0469 Q258.625,295.2969 258.625,295.6406 Q258.625,295.9844 258.2813,296.3906 Q257.7813,296.9688 256.9844,297.2969 Q255.9063,297.75 254.6094,297.75 Q253.0938,297.75 251.8906,297.125 Q250.9063,296.625 250.2188,295.5625 Q249.5313,294.4844 249.5313,293.2031 L249.5313,292.0469 Q249.5313,290.7188 250.1406,289.5781 Q250.7656,288.4219 251.8594,287.8125 Q252.9531,287.1875 254.1875,287.1875 Q254.9219,287.1875 255.5625,287.3594 Q256.2188,287.5156 256.7656,287.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="268" y="297.7285">LinkedList</text><line style="stroke:#181818;stroke-width:0.5;" x1="240" x2="334" y1="308" y2="308"/><line style="stroke:#181818;stroke-width:0.5;" x1="240" x2="334" y1="316" y2="316"/></g><!--MD5=[ea775af43a0da7cb543d6bee4ab62c40]
+class Vector--><g id="elem_Vector"><rect fill="#F1F1F1" height="48" id="Vector" rx="3.5" ry="3.5" style="stroke:#181818;stroke-width:0.5;" width="73" x="130.5" y="276"/><ellipse cx="145.5" cy="292" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M148.2656,287.875 Q148.4219,287.6563 148.6094,287.5469 Q148.7969,287.4375 149.0156,287.4375 Q149.3906,287.4375 149.625,287.7031 Q149.8594,287.9531 149.8594,288.5625 L149.8594,290.0156 Q149.8594,290.625 149.625,290.8906 Q149.3906,291.1563 149.0156,291.1563 Q148.6719,291.1563 148.4688,290.9531 Q148.2656,290.7656 148.1563,290.25 Q148.1094,289.8906 147.9219,289.7031 Q147.5938,289.3281 146.9844,289.1094 Q146.375,288.8906 145.75,288.8906 Q144.9844,288.8906 144.3438,289.2188 Q143.7188,289.5469 143.2188,290.2969 Q142.7344,291.0469 142.7344,292.0781 L142.7344,293.1719 Q142.7344,294.4063 143.625,295.2344 Q144.5156,296.0469 146.1094,296.0469 Q147.0469,296.0469 147.7031,295.7969 Q148.0938,295.6406 148.5156,295.2031 Q148.7813,294.9375 148.9219,294.8594 Q149.0781,294.7813 149.2813,294.7813 Q149.6094,294.7813 149.8594,295.0469 Q150.125,295.2969 150.125,295.6406 Q150.125,295.9844 149.7813,296.3906 Q149.2813,296.9688 148.4844,297.2969 Q147.4063,297.75 146.1094,297.75 Q144.5938,297.75 143.3906,297.125 Q142.4063,296.625 141.7188,295.5625 Q141.0313,294.4844 141.0313,293.2031 L141.0313,292.0469 Q141.0313,290.7188 141.6406,289.5781 Q142.2656,288.4219 143.3594,287.8125 Q144.4531,287.1875 145.6875,287.1875 Q146.4219,287.1875 147.0625,287.3594 Q147.7188,287.5156 148.2656,287.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="159.5" y="297.7285">Vector</text><line style="stroke:#181818;stroke-width:0.5;" x1="131.5" x2="202.5" y1="308" y2="308"/><line style="stroke:#181818;stroke-width:0.5;" x1="131.5" x2="202.5" y1="316" y2="316"/></g><!--MD5=[c1172da09056138921286a9edbf3c2d4]
+class PriorityQueue--><g id="elem_PriorityQueue"><rect fill="#F1F1F1" height="48" id="PriorityQueue" rx="3.5" ry="3.5" style="stroke:#181818;stroke-width:0.5;" width="119" x="370.5" y="276"/><ellipse cx="385.5" cy="292" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M388.2656,287.875 Q388.4219,287.6563 388.6094,287.5469 Q388.7969,287.4375 389.0156,287.4375 Q389.3906,287.4375 389.625,287.7031 Q389.8594,287.9531 389.8594,288.5625 L389.8594,290.0156 Q389.8594,290.625 389.625,290.8906 Q389.3906,291.1563 389.0156,291.1563 Q388.6719,291.1563 388.4688,290.9531 Q388.2656,290.7656 388.1563,290.25 Q388.1094,289.8906 387.9219,289.7031 Q387.5938,289.3281 386.9844,289.1094 Q386.375,288.8906 385.75,288.8906 Q384.9844,288.8906 384.3438,289.2188 Q383.7188,289.5469 383.2188,290.2969 Q382.7344,291.0469 382.7344,292.0781 L382.7344,293.1719 Q382.7344,294.4063 383.625,295.2344 Q384.5156,296.0469 386.1094,296.0469 Q387.0469,296.0469 387.7031,295.7969 Q388.0938,295.6406 388.5156,295.2031 Q388.7813,294.9375 388.9219,294.8594 Q389.0781,294.7813 389.2813,294.7813 Q389.6094,294.7813 389.8594,295.0469 Q390.125,295.2969 390.125,295.6406 Q390.125,295.9844 389.7813,296.3906 Q389.2813,296.9688 388.4844,297.2969 Q387.4063,297.75 386.1094,297.75 Q384.5938,297.75 383.3906,297.125 Q382.4063,296.625 381.7188,295.5625 Q381.0313,294.4844 381.0313,293.2031 L381.0313,292.0469 Q381.0313,290.7188 381.6406,289.5781 Q382.2656,288.4219 383.3594,287.8125 Q384.4531,287.1875 385.6875,287.1875 Q386.4219,287.1875 387.0625,287.3594 Q387.7188,287.5156 388.2656,287.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="399.5" y="297.7285">PriorityQueue</text><line style="stroke:#181818;stroke-width:0.5;" x1="371.5" x2="488.5" y1="308" y2="308"/><line style="stroke:#181818;stroke-width:0.5;" x1="371.5" x2="488.5" y1="316" y2="316"/></g><!--MD5=[081e18de64b05ec8ae686bcc1669da5e]
+class HashSet--><g id="elem_HashSet"><rect fill="#F1F1F1" height="48" id="HashSet" rx="3.5" ry="3.5" style="stroke:#181818;stroke-width:0.5;" width="85" x="669.5" y="276"/><ellipse cx="684.5" cy="292" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M687.2656,287.875 Q687.4219,287.6563 687.6094,287.5469 Q687.7969,287.4375 688.0156,287.4375 Q688.3906,287.4375 688.625,287.7031 Q688.8594,287.9531 688.8594,288.5625 L688.8594,290.0156 Q688.8594,290.625 688.625,290.8906 Q688.3906,291.1563 688.0156,291.1563 Q687.6719,291.1563 687.4688,290.9531 Q687.2656,290.7656 687.1563,290.25 Q687.1094,289.8906 686.9219,289.7031 Q686.5938,289.3281 685.9844,289.1094 Q685.375,288.8906 684.75,288.8906 Q683.9844,288.8906 683.3438,289.2188 Q682.7188,289.5469 682.2188,290.2969 Q681.7344,291.0469 681.7344,292.0781 L681.7344,293.1719 Q681.7344,294.4063 682.625,295.2344 Q683.5156,296.0469 685.1094,296.0469 Q686.0469,296.0469 686.7031,295.7969 Q687.0938,295.6406 687.5156,295.2031 Q687.7813,294.9375 687.9219,294.8594 Q688.0781,294.7813 688.2813,294.7813 Q688.6094,294.7813 688.8594,295.0469 Q689.125,295.2969 689.125,295.6406 Q689.125,295.9844 688.7813,296.3906 Q688.2813,296.9688 687.4844,297.2969 Q686.4063,297.75 685.1094,297.75 Q683.5938,297.75 682.3906,297.125 Q681.4063,296.625 680.7188,295.5625 Q680.0313,294.4844 680.0313,293.2031 L680.0313,292.0469 Q680.0313,290.7188 680.6406,289.5781 Q681.2656,288.4219 682.3594,287.8125 Q683.4531,287.1875 684.6875,287.1875 Q685.4219,287.1875 686.0625,287.3594 Q686.7188,287.5156 687.2656,287.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="698.5" y="297.7285">HashSet</text><line style="stroke:#181818;stroke-width:0.5;" x1="670.5" x2="753.5" y1="308" y2="308"/><line style="stroke:#181818;stroke-width:0.5;" x1="670.5" x2="753.5" y1="316" y2="316"/></g><!--MD5=[8c452fe909a389eeab67a697d1b8abd0]
+class LinkedHashSet--><g id="elem_LinkedHashSet"><rect fill="#F1F1F1" height="48" id="LinkedHashSet" rx="3.5" ry="3.5" style="stroke:#181818;stroke-width:0.5;" width="127" x="656.5" y="384"/><ellipse cx="671.5" cy="400" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M674.2656,395.875 Q674.4219,395.6563 674.6094,395.5469 Q674.7969,395.4375 675.0156,395.4375 Q675.3906,395.4375 675.625,395.7031 Q675.8594,395.9531 675.8594,396.5625 L675.8594,398.0156 Q675.8594,398.625 675.625,398.8906 Q675.3906,399.1563 675.0156,399.1563 Q674.6719,399.1563 674.4688,398.9531 Q674.2656,398.7656 674.1563,398.25 Q674.1094,397.8906 673.9219,397.7031 Q673.5938,397.3281 672.9844,397.1094 Q672.375,396.8906 671.75,396.8906 Q670.9844,396.8906 670.3438,397.2188 Q669.7188,397.5469 669.2188,398.2969 Q668.7344,399.0469 668.7344,400.0781 L668.7344,401.1719 Q668.7344,402.4063 669.625,403.2344 Q670.5156,404.0469 672.1094,404.0469 Q673.0469,404.0469 673.7031,403.7969 Q674.0938,403.6406 674.5156,403.2031 Q674.7813,402.9375 674.9219,402.8594 Q675.0781,402.7813 675.2813,402.7813 Q675.6094,402.7813 675.8594,403.0469 Q676.125,403.2969 676.125,403.6406 Q676.125,403.9844 675.7813,404.3906 Q675.2813,404.9688 674.4844,405.2969 Q673.4063,405.75 672.1094,405.75 Q670.5938,405.75 669.3906,405.125 Q668.4063,404.625 667.7188,403.5625 Q667.0313,402.4844 667.0313,401.2031 L667.0313,400.0469 Q667.0313,398.7188 667.6406,397.5781 Q668.2656,396.4219 669.3594,395.8125 Q670.4531,395.1875 671.6875,395.1875 Q672.4219,395.1875 673.0625,395.3594 Q673.7188,395.5156 674.2656,395.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="685.5" y="405.7285">LinkedHashSet</text><line style="stroke:#181818;stroke-width:0.5;" x1="657.5" x2="782.5" y1="416" y2="416"/><line style="stroke:#181818;stroke-width:0.5;" x1="657.5" x2="782.5" y1="424" y2="424"/></g><!--MD5=[95f770ba5087db94578937ba4821175f]
+class TreeSet--><g id="elem_TreeSet"><rect fill="#F1F1F1" height="48" id="TreeSet" rx="3.5" ry="3.5" style="stroke:#181818;stroke-width:0.5;" width="83" x="522.5" y="492"/><ellipse cx="537.5" cy="508" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M540.2656,503.875 Q540.4219,503.6563 540.6094,503.5469 Q540.7969,503.4375 541.0156,503.4375 Q541.3906,503.4375 541.625,503.7031 Q541.8594,503.9531 541.8594,504.5625 L541.8594,506.0156 Q541.8594,506.625 541.625,506.8906 Q541.3906,507.1563 541.0156,507.1563 Q540.6719,507.1563 540.4688,506.9531 Q540.2656,506.7656 540.1563,506.25 Q540.1094,505.8906 539.9219,505.7031 Q539.5938,505.3281 538.9844,505.1094 Q538.375,504.8906 537.75,504.8906 Q536.9844,504.8906 536.3438,505.2188 Q535.7188,505.5469 535.2188,506.2969 Q534.7344,507.0469 534.7344,508.0781 L534.7344,509.1719 Q534.7344,510.4063 535.625,511.2344 Q536.5156,512.0469 538.1094,512.0469 Q539.0469,512.0469 539.7031,511.7969 Q540.0938,511.6406 540.5156,511.2031 Q540.7813,510.9375 540.9219,510.8594 Q541.0781,510.7813 541.2813,510.7813 Q541.6094,510.7813 541.8594,511.0469 Q542.125,511.2969 542.125,511.6406 Q542.125,511.9844 541.7813,512.3906 Q541.2813,512.9688 540.4844,513.2969 Q539.4063,513.75 538.1094,513.75 Q536.5938,513.75 535.3906,513.125 Q534.4063,512.625 533.7188,511.5625 Q533.0313,510.4844 533.0313,509.2031 L533.0313,508.0469 Q533.0313,506.7188 533.6406,505.5781 Q534.2656,504.4219 535.3594,503.8125 Q536.4531,503.1875 537.6875,503.1875 Q538.4219,503.1875 539.0625,503.3594 Q539.7188,503.5156 540.2656,503.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="551.5" y="513.7285">TreeSet</text><line style="stroke:#181818;stroke-width:0.5;" x1="523.5" x2="604.5" y1="524" y2="524"/><line style="stroke:#181818;stroke-width:0.5;" x1="523.5" x2="604.5" y1="532" y2="532"/></g><!--MD5=[0159284274f96a472eb2618ad803aaca]
+reverse link Collection to List--><g id="link_Collection_List"><path codeLine="15" d="M287.78,123.81 C274.7,139.57 261.56,155.39 251.32,167.72 " fill="none" id="Collection-backto-List" style="stroke:#191919;stroke-width:1.0;"/><polygon fill="none" points="282.57,119.13,300.73,108.22,293.34,128.07,282.57,119.13" style="stroke:#191919;stroke-width:1.0;"/></g><!--MD5=[de70471c1aeb5b441f3202b5f0dab243]
+reverse link List to ArrayList--><g id="link_List_ArrayList"><path codeLine="16" d="M187.29,219.18 C157.58,236.58 118.91,259.23 90.36,275.95 " fill="none" id="List-backto-ArrayList" style="stroke:#191919;stroke-width:1.0;"/><polygon fill="none" points="184.11,212.94,204.9,208.87,191.18,225.02,184.11,212.94" style="stroke:#191919;stroke-width:1.0;"/></g><!--MD5=[fbe20c8416b252056ee73c1eb5bf9ec9]
+reverse link List to LinkedList--><g id="link_List_LinkedList"><path codeLine="17" d="M253.32,234.09 C260.64,248.2 268.57,263.48 274.9,275.68 " fill="none" id="List-backto-LinkedList" style="stroke:#191919;stroke-width:1.0;"/><polygon fill="none" points="246.93,236.98,243.93,216,259.36,230.53,246.93,236.98" style="stroke:#191919;stroke-width:1.0;"/></g><!--MD5=[e2d511084d1bea030430f1c72f6ea99b]
+reverse link List to Vector--><g id="link_List_Vector"><path codeLine="18" d="M207.39,233.13 C198.58,247.5 188.95,263.21 181.3,275.68 " fill="none" id="List-backto-Vector" style="stroke:#191919;stroke-width:1.0;"/><polygon fill="none" points="201.47,229.39,217.9,216,213.41,236.71,201.47,229.39" style="stroke:#191919;stroke-width:1.0;"/></g><!--MD5=[ed6173059207d719d56c0a76f1c566ad]
+reverse link Collection to Queue--><g id="link_Collection_Queue"><path codeLine="20" d="M342,128.24 C342,142.5 342,156.55 342,167.72 " fill="none" id="Collection-backto-Queue" style="stroke:#191919;stroke-width:1.0;"/><polygon fill="none" points="335,128.22,342,108.22,349,128.22,335,128.22" style="stroke:#191919;stroke-width:1.0;"/></g><!--MD5=[852d04d73d4b15a33bf2a1031ee2438e]
+reverse link Queue to PriorityQueue--><g id="link_Queue_PriorityQueue"><path codeLine="21" d="M374.13,231.7 C386.37,246.45 399.94,262.79 410.64,275.68 " fill="none" id="Queue-backto-PriorityQueue" style="stroke:#191919;stroke-width:1.0;"/><polygon fill="none" points="368.48,235.86,361.09,216,379.26,226.92,368.48,235.86" style="stroke:#191919;stroke-width:1.0;"/></g><!--MD5=[945dd4dc8ac2f2b55e52a85e950e3848]
+reverse link Queue to LinkedList--><g id="link_Queue_LinkedList"><path codeLine="22" d="M320.68,234.09 C313.36,248.2 305.43,263.48 299.1,275.68 " fill="none" id="Queue-backto-LinkedList" style="stroke:#191919;stroke-width:1.0;"/><polygon fill="none" points="314.64,230.53,330.07,216,327.07,236.98,314.64,230.53" style="stroke:#191919;stroke-width:1.0;"/></g><!--MD5=[1317568493796c4665b61a5c76c851cf]
+reverse link Collection to Set--><g id="link_Collection_Set"><path codeLine="24" d="M443.04,116.71 C480.63,138.36 520.24,161.18 545.48,175.72 " fill="none" id="Collection-backto-Set" style="stroke:#191919;stroke-width:1.0;"/><polygon fill="none" points="439.52,122.76,425.69,106.71,446.51,110.63,439.52,122.76" style="stroke:#191919;stroke-width:1.0;"/></g><!--MD5=[92fae5c9076f5680ae937211bfcbd733]
+reverse link Set to SortedSet--><g id="link_Set_SortedSet"><path codeLine="25" d="M572,236.02 C572,249.58 572,264.04 572,275.68 " fill="none" id="Set-backto-SortedSet" style="stroke:#191919;stroke-width:1.0;"/><polygon fill="none" points="565,236,572,216,579,236,565,236" style="stroke:#191919;stroke-width:1.0;"/></g><!--MD5=[368c5c2acb7de74fba431c7d8a072383]
+reverse link Set to HashSet--><g id="link_Set_HashSet"><path codeLine="26" d="M614.88,225.47 C636.43,241.78 662.03,261.17 681.54,275.94 " fill="none" id="Set-backto-HashSet" style="stroke:#191919;stroke-width:1.0;"/><polygon fill="none" points="610.38,230.84,598.66,213.19,618.83,219.68,610.38,230.84" style="stroke:#191919;stroke-width:1.0;"/></g><!--MD5=[f80d5d8a7b155c0b623277f7d1d417ef]
+reverse link HashSet to LinkedHashSet--><g id="link_HashSet_LinkedHashSet"><path codeLine="27" d="M715.25,344.02 C716.27,357.58 717.36,372.04 718.24,383.68 " fill="none" id="HashSet-backto-LinkedHashSet" style="stroke:#191919;stroke-width:1.0;"/><polygon fill="none" points="708.26,344.47,713.74,324,722.22,343.42,708.26,344.47" style="stroke:#191919;stroke-width:1.0;"/></g><!--MD5=[aacefb7b0fbbe26874d96b78ab90ff15]
+reverse link SortedSet to NavigableSet--><g id="link_SortedSet_NavigableSet"><path codeLine="28" d="M568.75,344.02 C567.73,357.58 566.64,372.04 565.76,383.68 " fill="none" id="SortedSet-backto-NavigableSet" style="stroke:#191919;stroke-width:1.0;"/><polygon fill="none" points="561.78,343.42,570.26,324,575.74,344.47,561.78,343.42" style="stroke:#191919;stroke-width:1.0;"/></g><!--MD5=[dae32439ea64fb8daa62dfdeada4e096]
+reverse link NavigableSet to TreeSet--><g id="link_NavigableSet_TreeSet"><path codeLine="29" d="M564,452.02 C564,465.58 564,480.04 564,491.68 " fill="none" id="NavigableSet-backto-TreeSet" style="stroke:#191919;stroke-width:1.0;"/><polygon fill="none" points="557,452,564,432,571,452,557,452" style="stroke:#191919;stroke-width:1.0;"/></g><!--MD5=[df408eebdb9b37fa789f8b78f7e79645]
+@startuml Collections Hierarchy
+
+!theme mars
+
+interface Collection
+Collection : add(E e)
+Collection : addAll()
+Collection : removeIf(Predicate filter)
+
+interface List
+interface Set
+interface SortedSet
+interface NavigableSet
+interface Queue
+
+Collection <|- - List
+List <|- - ArrayList
+List <|- - LinkedList
+List <|- - Vector
+
+Collection <|- - Queue
+Queue <|- - PriorityQueue
+Queue <|- - LinkedList
+
+Collection <|- - Set
+Set <|- - SortedSet
+Set <|- - HashSet
+HashSet <|- - LinkedHashSet
+SortedSet <|- - NavigableSet
+NavigableSet <|- - TreeSet
+
+@enduml
+
+@startuml Collections Hierarchy
+
+skinparam BackgroundColor F9F9F9
+skinparam shadowing false
+skinparam RoundCorner 7
+skinparam ArrowColor 191919
+skinparam FontColor 191919
+skinparam SequenceLifeLineBorderColor 393939
+skinparam SequenceGroupHeaderFontColor 191919
+skinparam SequenceGroupFontColor 393939
+skinparam SequenceGroupBorderColor 393939
+skinparam SequenceGroupBorderThickness 1
+
+skinparam sequenceDivider {
+    BorderColor 191919
+    BorderThickness 1
+    FontColor 191919
+}
+
+skinparam participant {
+    BackgroundColor E55756
+    BorderColor 191919
+    FontColor F9F9F9
+    BorderThickness 1.5
+}
+
+skinparam database {
+    BackgroundColor A4DBD8
+    BorderColor 191919
+    FontColor 191919
+}
+
+skinparam entity {
+    BackgroundColor EFBABC
+    BorderColor 191919
+    FontColor 191919
+}
+
+skinparam note {
+    BackgroundColor e5e5e5
+    BorderColor 191919
+    FontColor 191919
+    BorderThickness 1.5
+}
+
+skinparam actor {
+    BackgroundColor 191919
+    BorderColor 191919
+    FontColor 191919
+}
+
+skinparam boundary {
+    BackgroundColor EFBABC
+    BorderColor 191919
+    FontColor 191919
+}
+
+skinparam control {
+    BackgroundColor EFBABC
+    BorderColor 191919
+    FontColor 191919
+}
+
+skinparam collections {
+    BackgroundColor E55756
+    BorderColor 191919
+    FontColor 191919
+    BorderThickness 1.5
+}
+
+skinparam queue {
+    BackgroundColor E55756
+    BorderColor 191919
+    FontColor FFF
+    BorderThickness 1.5
+}
+
+interface Collection
+Collection : add(E e)
+Collection : addAll()
+Collection : removeIf(Predicate filter)
+
+interface List
+interface Set
+interface SortedSet
+interface NavigableSet
+interface Queue
+
+Collection <|- - List
+List <|- - ArrayList
+List <|- - LinkedList
+List <|- - Vector
+
+Collection <|- - Queue
+Queue <|- - PriorityQueue
+Queue <|- - LinkedList
+
+Collection <|- - Set
+Set <|- - SortedSet
+Set <|- - HashSet
+HashSet <|- - LinkedHashSet
+SortedSet <|- - NavigableSet
+NavigableSet <|- - TreeSet
+
+@enduml
+
+PlantUML version 1.2022.5(Sat Apr 30 16:25:52 IST 2022)
+(MIT source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: IN
+--></g></svg>
