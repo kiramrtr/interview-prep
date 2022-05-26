@@ -64,6 +64,8 @@ Advantages:
 - Reduces the effort required to design and implement APIs
 - Fosters software reuse
 
+<image src="../../out/images/_src/collection-hierarchy/Collections Hierarchy.svg">
+
 ### Collection Implementations
 
 | Interface | Hash Table                                                                                       | Resizable Array                                                                                        | Balanced Tree                                                                                    | Linked List                                                                                            | Hash Table + Linked List                                                                                     |
