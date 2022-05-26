@@ -177,3 +177,44 @@ public int removeDuplicates(int[] nums) {
     return i + 1;
 }
 ```
+
+### [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+
+```java
+public int findMaxConsecutiveOnes(int[] nums) {
+    int maxSeen = 0, currentMax = 0;
+
+    for (int i = 0; i < nums.length; i++) {
+        if (nums[i] == 1) {
+            currentMax += 1;
+            maxSeen = Math.max(currentMax, maxSeen);
+        } else {
+            currentMax = 0;
+        }
+    }
+
+    return maxSeen;
+}
+```
+
+### [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
+
+```java
+public int maxPower(String s) {
+    int max = 0, currentCount = 0;
+    char prevChar = ' ';
+
+    for (int i = 0; i < s.length(); i++) {
+        char currentChar = s.charAt(i);
+
+        if (prevChar == currentChar) {
+            currentCount++;
+        } else {
+            prevChar = currentChar;
+            currentCount = 1;
+        }
+        max = Math.max(max, currentCount);
+    }
+    return max;
+}
+```
